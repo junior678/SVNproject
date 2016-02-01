@@ -67,6 +67,7 @@ The design criteria was based around "CVS" while adding additional features that
 
 15 Time machine
 How do we view the past of a project with svn?
+svn log provides a broad information about the commit history. Also, svn diff shows line-level information of particular changes.
 
 16 Great Scott!
 If there was a mistake made in the past of a project, how should we go about

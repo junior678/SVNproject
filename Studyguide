@@ -11,6 +11,7 @@ The svn commit command transmits your changes to the repository where, if they a
 
 3 Checking out svn
 How are check outs performed in svn?
+By typing command svn checkout <this could be the url or the file location>
 
 4 Bring me my .svn!
 How do you create the local working environment with svn (the .svn directory)?

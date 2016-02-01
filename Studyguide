@@ -7,6 +7,7 @@ GIT is a distributed version control system and SVN is not. Also, Git's branches
 
 2 Commiting to svn
 How are commits handled in svn?
+The svn commit command transmits your changes to the repository where, if they are accepted, they create the newest versions of all the things you modified.
 
 3 Checking out svn
 How are check outs performed in svn?

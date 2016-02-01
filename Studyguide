@@ -82,6 +82,7 @@ By using svn import /path you can immediately add a folder or files to your repo
 
 18 Local SVN
 Can the client/server setup required with svn exist on the same computer?
+Yes it can.
 
 19 For the admins
 Did SVN provide any difference in tools between how you do server side

@@ -3,6 +3,7 @@ Study Guide
 
 1 Git vs Svn
 What are the differences between git and svn?
+GIT is a distributed version control system and SVN is not. Also, Git's branches are different that SVN branches.
 
 2 Commiting to svn
 How are commits handled in svn?

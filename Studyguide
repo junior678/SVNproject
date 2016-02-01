@@ -27,6 +27,7 @@ It is basically another copy of your documents, it allows you to maintain them, 
 
 7 or maybe a forest
 How many branches can you have at any given time?
+There is no limit on how many branches you can have in svn.
 
 8 Working copy
 What does your local copy of a repository look like with svn?

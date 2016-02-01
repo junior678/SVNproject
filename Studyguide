@@ -19,6 +19,7 @@ Check out a directory from a repository creates a working copy of that directory
 
 5 Adding to the chaos
 How do you add files to the repository?
+You can add files by using svn add <FILE> command and commiting changes with svn commit -m "message"
 
 6 It’s like a tree
 How are branches handled in svn?

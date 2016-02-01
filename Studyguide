@@ -47,6 +47,7 @@ We can merge branches in svn by using svn merge command
 
 12 We see a need!
 Why was svn created?
+CollabNet needed to write a new version control system from scratch, retaining the basic ideas of CVS, but without the bugs and misfeatures.
 
 13 A day in the life of svn
 What is a typical svn workflow?

@@ -43,6 +43,7 @@ Branches can be recovered at any time even after they are merged.
 
 11 Taping it together
 How do you merge branches?
+We can merge branches in svn by using svn merge command
 
 12 We see a need!
 Why was svn created?

@@ -87,3 +87,4 @@ Yes it can.
 19 For the admins
 Did SVN provide any difference in tools between how you do server side
 commands and client side commands?
+Yes, the svnadmin is one of them amongst others like svnlook.

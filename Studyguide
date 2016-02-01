@@ -31,6 +31,7 @@ There is no limit on how many branches you can have in svn.
 
 8 Working copy
 What does your local copy of a repository look like with svn?
+It is a copy and looks like aregular folder containing the files you are working on. This copy acts like a time machine because it keeps a record of every changed commited.
 
 9 Status
 How do you check the status of the files you are presently working on?

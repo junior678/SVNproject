@@ -52,6 +52,15 @@ CollabNet needed to write a new version control system from scratch, retaining t
 13 A day in the life of svn
 What is a typical svn workflow?
 
+A Git workflow looks like this:
+
+A Git repository stores the full history of all of its branches and tags within the .git directory.
+The latest stable release is contained within the master branch.
+Active feature work is developed in separate branches.
+When a feature is finished, the feature branch is merged into master and deleted.
+
+Source: https://help.github.com/articles/what-are-the-differences-between-svn-and-git/
+
 14 What were they thinking?!
 What was the design criteria for svn?
 

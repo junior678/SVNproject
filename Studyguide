@@ -78,6 +78,7 @@ It is better to commit another change and indicating the mistake that was correc
 If you have an existing project and want to start tracking it with svn, how
 do you copy your existing files to the repository the first time? Does this
 create the .svn directory in your local folder?
+By using svn import /path you can immediately add a folder or files to your repository. Also, the svn checkout http://url creates the .svn directory.
 
 18 Local SVN
 Can the client/server setup required with svn exist on the same computer?

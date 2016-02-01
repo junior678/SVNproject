@@ -15,6 +15,7 @@ By typing command svn checkout <this could be the url or the file location>
 
 4 Bring me my .svn!
 How do you create the local working environment with svn (the .svn directory)?
+Check out a directory from a repository creates a working copy of that directory on your local machine. Use the svn checkout command to accomplish this.
 
 5 Adding to the chaos
 How do you add files to the repository?

@@ -63,6 +63,7 @@ Source: https://help.github.com/articles/what-are-the-differences-between-svn-an
 
 14 What were they thinking?!
 What was the design criteria for svn?
+The design criteria was based around "CVS" while adding additional features that CVS user wished they had.
 
 15 Time machine
 How do we view the past of a project with svn?

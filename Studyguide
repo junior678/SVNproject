@@ -35,6 +35,7 @@ It is a copy and looks like aregular folder containing the files you are working
 
 9 Status
 How do you check the status of the files you are presently working on?
+You can check the status of the files you are working on by using svn status command
 
 10 Life of a branch
 How long are branches in svn supposed to exist?
